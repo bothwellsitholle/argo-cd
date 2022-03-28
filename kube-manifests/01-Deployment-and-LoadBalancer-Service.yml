@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1-nginx
-          image: bothwellsithole2/argo-dev:1
+          image: bothwellsithole2/argo-dev:2
           ports:
             - containerPort: 80
 ---
